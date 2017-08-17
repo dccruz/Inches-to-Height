@@ -4,7 +4,7 @@ using namespace std;
 
 
 int main(){
-    cout << "DC Cruz July 8th 2017"<<endl <<endl;
+  
     int height,height_feet,height_inches; // height inches we do not need to ocnvert we just need to hold and add to
     cout<<"Please enter your height in feet and inches: ";
     cin>>height_feet>>height_inches;
